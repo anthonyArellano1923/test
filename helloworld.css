@@ -1,3 +1,8 @@
 #tittle {
     color: blue;
+    background-color: aqua;
+}
+
+#body {
+    background-color: rgb(55, 167, 100);
 }
